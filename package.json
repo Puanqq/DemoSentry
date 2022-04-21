@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/node": "^6.19.6",
+    "@sentry/tracing": "^6.19.6",
+    "@transzero/utils": "^1.0.2",
+    "create-gitignore": "^0.1.0",
+    "express": "^4.17.3",
+    "express-pino-logger": "^7.0.0",
+    "gitignore": "^0.7.0",
+    "http": "^0.0.1-security"
+  }
+}
